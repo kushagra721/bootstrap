@@ -1,0 +1,63 @@
+
+.coro{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.containerw{
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-top: 35px;
+    display: flex;
+    justify-content: space-between;
+   
+   
+
+}
+
+.wid{
+    height: 19rem;
+}
+.accor{
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-top: 35px;
+
+}
+.tab{
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-top: 35px;
+    display: flex;
+    
+
+
+}
+.fo{
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-top: 35px;
+
+}
+.navbar1{
+    margin-left: 20px;
+    margin-right: 20px;
+   
+
+}
+
+
+@media (max-width: 450px) {
+   .containerw{
+    display: flex;
+    flex-direction: column;
+    column-gap: 20px;
+    
+    
+    
+   }
+   .card{
+    width: 21rem !important;
+    margin-top: 25px;
+   
+   }
+  }
